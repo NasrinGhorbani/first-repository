@@ -1,0 +1,2 @@
+Hi
+Im currently experiencing my first work with Git!
