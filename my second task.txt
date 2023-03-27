@@ -2,3 +2,5 @@ Hi
 Im currently experiencing my first work with Git!
 
 now Im trying to modify my file after committed it!
+
+now trying to add and commit at the same time after modified
