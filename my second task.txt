@@ -1,2 +1,4 @@
 Hi
 Im currently experiencing my first work with Git!
+
+now Im trying to modify my file after committed it!
